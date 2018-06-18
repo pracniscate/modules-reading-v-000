@@ -1,3 +1,6 @@
+# Extending Module Methods As Class Methods
+# use the extend keyword
+
 module FancyDance
   module InstanceMethods
 
